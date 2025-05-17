@@ -69,19 +69,8 @@
 ## 🎵 Vibes do Momento
 
 <p align="center">
-  <a href="https://open.spotify.com/track/2kS6td1yvmpNgZTt1q9a7P" target="_blank">
-    <table>
-      <tr>
-        <td width="130">
-          <img src="https://bit.ly/3VNZDYN" width="120">
-        </td>
-        <td>
-          <b>My Ordinary Life</b><br>
-          The Living Tombstone<br>
-          <i>601.834.322 plays</i>
-        </td>
-      </tr>
-    </table>
+  <a href="https://open.spotify.com/intl-pt/track/3FdopY118eIYv5COjji7Sa" target="_blank">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350" />
   </a>
 </p>
 

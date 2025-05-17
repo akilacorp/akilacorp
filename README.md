@@ -72,8 +72,8 @@
   <a href="https://open.spotify.com/track/2kS6td1yvmpNgZTt1q9a7P" target="_blank">
     <table>
       <tr>
-        <td>
-          <img src="https://i.scdn.co/image/ab67616d0000b273173deb392e742b828bfa2f79" width="100">
+        <td width="130">
+          <img src="https://bit.ly/3VNZDYN" width="120">
         </td>
         <td>
           <b>My Ordinary Life</b><br>

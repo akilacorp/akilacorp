@@ -1,8 +1,3 @@
-Entendido, você quer um `README.md` com um visual **forte, estilizado, dark/red**, com **efeitos visuais animados**, estilo Matrix com código caindo, nome "AKILA" com efeito de digitação/apagamento, **estatísticas personalizadas** e até uma **loli dançando** (em GIF). Vamos fazer isso real. Aqui está o conteúdo completo para seu `README.md`:
-
----
-
-````markdown
 <div align="center">
 
 ![Matrix Code](https://i.gifer.com/7VE.gif)

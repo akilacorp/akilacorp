@@ -1,6 +1,6 @@
 <div align="center">
 
-![Matrix Code](https://i.gifer.com/7VE.gif)
+![Matrix Code](https://i.pinimg.com/originals/36/96/09/3696091d33197e5269fe2782f08bc7cd.gif)
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=AKILA;HACKER+MODE;WELCOME+TO+MY+PROFILE" alt="Typing SVG" />

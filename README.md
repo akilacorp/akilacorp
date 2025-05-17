@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/a6/bc/b5/a6bcb5ac2f25063fc2327461dba3487b.gif" width="200">
+  <img src="https://i.pinimg.com/originals/90/5f/c9/905fc914bbc0cfa71d8f09caa9bf4082.gif" width="200">
   <br>
   Olá, eu sou o Akila! 👋
 </h1>

@@ -47,7 +47,7 @@
 ## 📊 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akilacorp&theme=redical&hide_border=true" width="650">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akilacorp&theme=redical&hide_border=true" width="650">
 </div>
 
 ## 📱 Contato
@@ -67,12 +67,16 @@
 ## 🎵 Vibes do Momento
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=akilacorp&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=akilacorp&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=akilacorp&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify">
+  </a>
 </p>
 
 <div align="center">
   
-  ![Snake animation](https://github.com/akilacorp/akilacorp/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/akilacorp">
+    <img alt="Snake animation" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+  </a>
   
 </div>
 

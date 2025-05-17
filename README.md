@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/90/5f/c9/905fc914bbc0cfa71d8f09caa9bf4082.gif" width="180">
+  <img src="https://i.pinimg.com/originals/a6/bc/b5/a6bcb5ac2f25063fc2327461dba3487b.gif" width="150">
   <br>
   Olá, eu sou o Akila! 👋
 </h1>
@@ -47,7 +47,9 @@
 ## 📊 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=akilacorp&theme=redical&hide_border=true" width="650">
+  <a href="https://github.com/akilacorp">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akilacorp&theme=radical" width="650">
+  </a>
 </div>
 
 ## 📱 Contato
@@ -67,17 +69,17 @@
 ## 🎵 Vibes do Momento
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=akilacorp&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=akilacorp&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify">
+  <a href="https://open.spotify.com/" target="_blank">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350" />
   </a>
 </p>
 
 <div align="center">
-  
-  <a href="https://github.com/akilacorp">
-    <img alt="Snake animation" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
-  </a>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">

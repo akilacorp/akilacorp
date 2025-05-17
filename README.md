@@ -6,7 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=500&lines=AKILA;HACKER+MODE;WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
 </h1>
 
-![akila banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=AKILA%20CORP&fontSize=60&animation=fadeIn&fontColor=FF0000)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=AKILA%20CORP&fontSize=60&animation=fadeIn&fontColor=FF0000" />
 
 ---
 
